@@ -1,17 +1,6 @@
-### Charmes
+### Charles Sena
 
-Vim user e ladrão de marmotas.
-
-```text
-             ;,'
-     _o_    ;:;'
- ,-.'---`.__ ;
-((j`=====',-'
- `-\     /
-    `-=-'     hjw
-```
-
-PS.: Isto não é uma piada interna...
+Programador resposável pela manutenção e devops das cabines.
 <!--
 **charles-gokei/charles-gokei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
