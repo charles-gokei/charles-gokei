@@ -1,6 +1,6 @@
 ### Charles Sena
 
-Programador resposável pela manutenção e devops das cabines.
+Programador responsável pela manutenção e devops das cabines.
 <!--
 **charles-gokei/charles-gokei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
